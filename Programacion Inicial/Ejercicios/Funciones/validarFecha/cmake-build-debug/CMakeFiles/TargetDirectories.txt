@@ -1,0 +1,3 @@
+/home/arielito/CLionProjects/Ejercicios/Funciones/validarFecha/cmake-build-debug/CMakeFiles/validarFecha.dir
+/home/arielito/CLionProjects/Ejercicios/Funciones/validarFecha/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arielito/CLionProjects/Ejercicios/Funciones/validarFecha/cmake-build-debug/CMakeFiles/rebuild_cache.dir

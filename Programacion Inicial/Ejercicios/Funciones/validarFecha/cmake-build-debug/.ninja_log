@@ -1,0 +1,15 @@
+# ninja log v5
+1	32	1717630807970458605	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+1	34	1717630837349851236	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+1	33	1717630852477542764	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+2	35	1717630877961029435	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+0	31	1717631023946223780	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+1	37	1717631136048199371	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+1	29	1717631247818269238	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+29	53	1717631247842268831	validarFecha	6682f52f3cdf87b6
+1	29	1717631326484954110	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+29	53	1717631326504953780	validarFecha	6682f52f3cdf87b6
+1	29	1717631401467728577	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+29	53	1717631401491728188	validarFecha	6682f52f3cdf87b6
+0	28	1717631963323110456	CMakeFiles/validarFecha.dir/main.c.o	3841f94bc5be28
+28	58	1717631963355109984	validarFecha	6682f52f3cdf87b6

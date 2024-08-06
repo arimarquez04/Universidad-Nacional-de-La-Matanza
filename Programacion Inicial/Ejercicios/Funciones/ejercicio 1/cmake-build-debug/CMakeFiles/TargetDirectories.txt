@@ -1,0 +1,3 @@
+/home/arielito/CLionProjects/Ejercicios/Funciones/ejercicio 1/cmake-build-debug/CMakeFiles/ejercicio_1.dir
+/home/arielito/CLionProjects/Ejercicios/Funciones/ejercicio 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arielito/CLionProjects/Ejercicios/Funciones/ejercicio 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

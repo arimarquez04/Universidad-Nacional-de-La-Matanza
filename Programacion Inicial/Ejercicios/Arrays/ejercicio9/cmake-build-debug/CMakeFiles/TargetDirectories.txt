@@ -1,0 +1,3 @@
+/home/arielito/CLionProjects/Ejercicios/Arrays/ejercicio9/cmake-build-debug/CMakeFiles/ejercicio9.dir
+/home/arielito/CLionProjects/Ejercicios/Arrays/ejercicio9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arielito/CLionProjects/Ejercicios/Arrays/ejercicio9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
