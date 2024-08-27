@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicio_5",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicio_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicio_5-Debug-9addff5cb2633f4f3efa.json",
+					"name" : "Ejercicio_5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicio_5/cmake-build-debug",
+		"source" : "/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicio_5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
