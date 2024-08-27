@@ -1,0 +1,3 @@
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicio_2/cmake-build-debug/CMakeFiles/Ejercicio_2.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicio_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicio_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
