@@ -1,10 +1,33 @@
-/home/arielito/Aplicaciones/clion-2024.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/arielito/Aplicaciones/clion-2024.1/bin/ninja/linux/x64/ninja -G Ninja -S "/home/arielito/CLionProjects/Ejercicios/Unidad 5/Parte 1/ejercicio21" -B "/home/arielito/CLionProjects/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug"
--- The C compiler identification is GNU 11.4.0
+"F:\Archivos de Programa\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "F:\CLion Workspace\Universidad Nacional de la Matanza\Universidad-Nacional-de-La-Matanza\Programacion Inicial\Ejercicios\Unidad 5\Parte 1\ejercicio21" -B "F:\CLion Workspace\Universidad Nacional de la Matanza\Universidad-Nacional-de-La-Matanza\Programacion Inicial\Ejercicios\Unidad 5\Parte 1\ejercicio21\cmake-build-debug"
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- The C compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
+CMake Warning in F:/CLion Workspace/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion Inicial/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ez1hle/CMakeLists.txt:
+  The object file directory
+
+    F:/CLion Workspace/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion Inicial/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ez1hle/CMakeFiles/cmTC_eda97.dir/
+
+  has 236 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
 -- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
+-- Check for working C compiler: F:/Archivos de Programa/CLion 2024.1.4/bin/mingw/bin/gcc.exe - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (0.3s)
+-- Configuring done (1.9s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/arielito/CLionProjects/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug
+-- Build files have been written to: F:/CLion Workspace/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion Inicial/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug
