@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ejercicio21",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio21-Debug-96b6362f03dd8295c604.json",
+					"name" : "ejercicio21",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/CLion Workspace/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion Inicial/Ejercicios/Unidad 5/Parte 1/ejercicio21/cmake-build-debug",
+		"source" : "F:/CLion Workspace/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion Inicial/Ejercicios/Unidad 5/Parte 1/ejercicio21"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
