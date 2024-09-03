@@ -28,6 +28,9 @@ public class CalculadoraDeTriangulo {
     }
 
     public String determinarTipoTriangulo(Double ladoA, Double ladoB, Double ladoC) {
+        if(ladoA<=0 || ladoB<=0 || ladoC<=0){
+            return "Lado invalido";
+        }
         // Verificamos si es un triángulo válido
         if (ladoA + ladoB > ladoC && ladoA + ladoC > ladoB && ladoB + ladoC > ladoA) {
             if (ladoA.equals(ladoB) && ladoB.equals(ladoC)) {
@@ -42,6 +45,9 @@ public class CalculadoraDeTriangulo {
         }
     }
     public String determinarTipoTriangulo() {
+        if(ladoA<=0 || ladoB<=0 || ladoC<=0){
+            return "Lado invalido";
+        }
         // Verificamos si es un triángulo válido
         if (ladoA + ladoB > ladoC && ladoA + ladoC > ladoB && ladoB + ladoC > ladoA) {
             if (ladoA.equals(ladoB) && ladoB.equals(ladoC)) {
