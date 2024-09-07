@@ -1,0 +1,7 @@
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicios.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicio-1.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicio-2.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicio-5.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicio-7.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Universidad Nacional de La Matanza/ProjectWorkspace/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-1/Ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir

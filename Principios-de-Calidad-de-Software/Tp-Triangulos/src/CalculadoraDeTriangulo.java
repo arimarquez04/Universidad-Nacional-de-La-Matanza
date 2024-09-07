@@ -52,14 +52,15 @@ public class CalculadoraDeTriangulo {
         if (ladoA + ladoB > ladoC && ladoA + ladoC > ladoB && ladoB + ladoC > ladoA) {
             if (ladoA.equals(ladoB) && ladoB.equals(ladoC)) {
                 return "Equilatero";
-            } else if (ladoA.equals(ladoB) || ladoA.equals(ladoC) || ladoB.equals(ladoC)) {
-                return "Isosceles";
-            } else {
-                return "Escaleno";
             }
-        } else {
-            return "No es un triangulo valido";
+            if (ladoA.equals(ladoB) || ladoA.equals(ladoC) || ladoB.equals(ladoC)) {
+                return "Isosceles";
+            }
+            return "Escaleno";
+
         }
+        return "No es un triangulo valido";
+
     }
 
 
