@@ -2,5 +2,9 @@
 /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/ejercicio2-1.dir
 /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/ejercicio2-2.dir
 /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/ejercicio2-3.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/matriz_2_7.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/matriz_iniciacion_mostrar.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/matriz_random.dir
+/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/ejercicio_vectores_string.dir
 /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir

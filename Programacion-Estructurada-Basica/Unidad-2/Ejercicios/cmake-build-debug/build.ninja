@@ -164,6 +164,130 @@ build ejercicio2-3: C_EXECUTABLE_LINKER__ejercicio2-3_Debug CMakeFiles/ejercicio
   TARGET_FILE = ejercicio2-3
   TARGET_PDB = ejercicio2-3.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target matriz_2_7
+
+
+#############################################
+# Order-only phony target for matriz_2_7
+
+build cmake_object_order_depends_target_matriz_2_7: phony || CMakeFiles/matriz_2_7.dir
+
+build CMakeFiles/matriz_2_7.dir/matriz_2_7.c.o: C_COMPILER__matriz_2_7_unscanned_Debug /home/arielito/CLionProjects/Universidad$ Nacional$ de$ la$ Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/matriz_2_7.c || cmake_object_order_depends_target_matriz_2_7
+  DEP_FILE = CMakeFiles/matriz_2_7.dir/matriz_2_7.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/matriz_2_7.dir
+  OBJECT_FILE_DIR = CMakeFiles/matriz_2_7.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target matriz_2_7
+
+
+#############################################
+# Link the executable matriz_2_7
+
+build matriz_2_7: C_EXECUTABLE_LINKER__matriz_2_7_Debug CMakeFiles/matriz_2_7.dir/matriz_2_7.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/matriz_2_7.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = matriz_2_7
+  TARGET_PDB = matriz_2_7.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target matriz_iniciacion_mostrar
+
+
+#############################################
+# Order-only phony target for matriz_iniciacion_mostrar
+
+build cmake_object_order_depends_target_matriz_iniciacion_mostrar: phony || CMakeFiles/matriz_iniciacion_mostrar.dir
+
+build CMakeFiles/matriz_iniciacion_mostrar.dir/matriz_iniciacion_mostrar.c.o: C_COMPILER__matriz_iniciacion_mostrar_unscanned_Debug /home/arielito/CLionProjects/Universidad$ Nacional$ de$ la$ Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/matriz_iniciacion_mostrar.c || cmake_object_order_depends_target_matriz_iniciacion_mostrar
+  DEP_FILE = CMakeFiles/matriz_iniciacion_mostrar.dir/matriz_iniciacion_mostrar.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/matriz_iniciacion_mostrar.dir
+  OBJECT_FILE_DIR = CMakeFiles/matriz_iniciacion_mostrar.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target matriz_iniciacion_mostrar
+
+
+#############################################
+# Link the executable matriz_iniciacion_mostrar
+
+build matriz_iniciacion_mostrar: C_EXECUTABLE_LINKER__matriz_iniciacion_mostrar_Debug CMakeFiles/matriz_iniciacion_mostrar.dir/matriz_iniciacion_mostrar.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/matriz_iniciacion_mostrar.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = matriz_iniciacion_mostrar
+  TARGET_PDB = matriz_iniciacion_mostrar.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target matriz_random
+
+
+#############################################
+# Order-only phony target for matriz_random
+
+build cmake_object_order_depends_target_matriz_random: phony || CMakeFiles/matriz_random.dir
+
+build CMakeFiles/matriz_random.dir/matriz_random.c.o: C_COMPILER__matriz_random_unscanned_Debug /home/arielito/CLionProjects/Universidad$ Nacional$ de$ la$ Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/matriz_random.c || cmake_object_order_depends_target_matriz_random
+  DEP_FILE = CMakeFiles/matriz_random.dir/matriz_random.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/matriz_random.dir
+  OBJECT_FILE_DIR = CMakeFiles/matriz_random.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target matriz_random
+
+
+#############################################
+# Link the executable matriz_random
+
+build matriz_random: C_EXECUTABLE_LINKER__matriz_random_Debug CMakeFiles/matriz_random.dir/matriz_random.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/matriz_random.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = matriz_random
+  TARGET_PDB = matriz_random.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio_vectores_string
+
+
+#############################################
+# Order-only phony target for ejercicio_vectores_string
+
+build cmake_object_order_depends_target_ejercicio_vectores_string: phony || CMakeFiles/ejercicio_vectores_string.dir
+
+build CMakeFiles/ejercicio_vectores_string.dir/ejercicio_vectores_string.c.o: C_COMPILER__ejercicio_vectores_string_unscanned_Debug /home/arielito/CLionProjects/Universidad$ Nacional$ de$ la$ Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/ejercicio_vectores_string.c || cmake_object_order_depends_target_ejercicio_vectores_string
+  DEP_FILE = CMakeFiles/ejercicio_vectores_string.dir/ejercicio_vectores_string.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/ejercicio_vectores_string.dir
+  OBJECT_FILE_DIR = CMakeFiles/ejercicio_vectores_string.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio_vectores_string
+
+
+#############################################
+# Link the executable ejercicio_vectores_string
+
+build ejercicio_vectores_string: C_EXECUTABLE_LINKER__ejercicio_vectores_string_Debug CMakeFiles/ejercicio_vectores_string.dir/ejercicio_vectores_string.c.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/ejercicio_vectores_string.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = ejercicio_vectores_string
+  TARGET_PDB = ejercicio_vectores_string.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -198,7 +322,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug
 
-build all: phony Ejercicios ejercicio2-1 ejercicio2-2 ejercicio2-3
+build all: phony Ejercicios ejercicio2-1 ejercicio2-2 ejercicio2-3 matriz_2_7 matriz_iniciacion_mostrar matriz_random ejercicio_vectores_string
 
 # =============================================================================
 # Built-in targets

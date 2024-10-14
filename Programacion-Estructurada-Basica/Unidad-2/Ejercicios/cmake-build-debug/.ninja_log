@@ -1,4 +1,8 @@
 # ninja log v5
-1	22	1725319678464153877	CMakeFiles/Ejercicios.dir/main.c.o	2f14d2032a9ac730
+1	54	1726526845646961113	CMakeFiles/Ejercicios.dir/main.c.o	2f14d2032a9ac730
 0	21	1725319688462014675	CMakeFiles/Ejercicios.dir/ejercicio3.c.o	263a5e447385c802
-1	24	1725320020587547446	Ejercicios	13663b7cf3e32df5
+54	86	1726526845677967528	Ejercicios	13663b7cf3e32df5
+0	84	1726530174087324964	CMakeFiles/ejercicio_vectores_string.dir/ejercicio_vectores_string.c.o	e7c882415d3048c7
+1	49	1726530278770610781	CMakeFiles/ejercicio_vectores_string.dir/ejercicio_vectores_string.c.o	e7c882415d3048c7
+1	22	1726530591353870643	CMakeFiles/ejercicio2-3.dir/ejercicio2-3.c.o	292302a7144d4905
+22	43	1726530591375870536	ejercicio2-3	2be4418c6cdc632e
