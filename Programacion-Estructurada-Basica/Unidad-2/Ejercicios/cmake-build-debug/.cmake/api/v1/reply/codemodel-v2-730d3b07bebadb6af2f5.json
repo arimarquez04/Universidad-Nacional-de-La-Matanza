@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ejercicios",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ejercicios::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ejercicios-Debug-6d206fd9e6c55007f116.json",
+					"name" : "Ejercicios",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio2-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio2-1-Debug-ce1522f6dcc0066765cb.json",
+					"name" : "ejercicio2-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio2-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio2-2-Debug-65d7d6e005c891209767.json",
+					"name" : "ejercicio2-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio2-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio2-3-Debug-e365439522d96967fd7d.json",
+					"name" : "ejercicio2-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio_vectores_string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio_vectores_string-Debug-253bd73534df0a20ebbb.json",
+					"name" : "ejercicio_vectores_string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matriz_2_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matriz_2_7-Debug-2faa09908903c391e88c.json",
+					"name" : "matriz_2_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matriz_iniciacion_mostrar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matriz_iniciacion_mostrar-Debug-09eb6b68b7efc4b2b2e2.json",
+					"name" : "matriz_iniciacion_mostrar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matriz_random::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matriz_random-Debug-75ac9233addd303c9123.json",
+					"name" : "matriz_random",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios/cmake-build-debug",
+		"source" : "/home/arielito/CLionProjects/Universidad Nacional de la Matanza/Universidad-Nacional-de-La-Matanza/Programacion-Estructurada-Basica/Unidad-2/Ejercicios"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
