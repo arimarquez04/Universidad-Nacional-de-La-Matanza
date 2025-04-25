@@ -1,0 +1,4 @@
+C:/Users/arima/CLionProjects/unlam/topicos-de-programacion/cmake-build-debug/CMakeFiles/topicos_de_programacion.dir
+C:/Users/arima/CLionProjects/unlam/topicos-de-programacion/cmake-build-debug/CMakeFiles/ejercicio_1.dir
+C:/Users/arima/CLionProjects/unlam/topicos-de-programacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/arima/CLionProjects/unlam/topicos-de-programacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
